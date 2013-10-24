@@ -11,5 +11,6 @@
 			<attribute name="owner.project.facets" value="jst.webfragment"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/3rdPartyJars"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

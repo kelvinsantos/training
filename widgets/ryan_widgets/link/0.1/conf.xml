@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.ryan.widgets.LinkWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Link Widget</label>
+  <description>Link Widget</description>
+</widget>
