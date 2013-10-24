@@ -36,7 +36,7 @@ public class LinkWidget extends WbdWidgetController
 	protected void init(WbdWidget instance) throws WbdException
 	{
 		instance.defineProperty(new WbdStringProperty("elementId", null, "Id", ""));
-		instance.defineProperty(new WbdStringProperty("label", null, "Label", ""));
+		instance.defineProperty(new WbdStringProperty("label", null, "Label", "LinkWidget"));
 		instance.defineProperty(new WbdStringProperty("link", null, "Link", ""));
 		instance.defineProperty(new WbdRadioTextProperty("target", null, "Taget", "Yes, No", ""));
 //		instance.defineProperty(new WbdNavPointProperty("navpoint", null, "Navpoint", ""));
