@@ -1,0 +1,18 @@
+﻿<navpoint>
+  <id>ryan</id>
+  <newId>0</newId>
+  <type>page</type>
+  <label>ToolTwist Demo</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <notes>Various navpoints expected by ToolTwist Demo</notes>
+  <onlyContainsAliases>N</onlyContainsAliases>
+  <navpoint>
+    <id>1</id>
+    <newId>1</newId>
+    <type>page</type>
+    <label>Home</label>
+    <url></url>
+    <useSSL>N</useSSL>
+  </navpoint>
+</navpoint>
